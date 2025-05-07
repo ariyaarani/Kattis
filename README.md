@@ -1,2 +1,0 @@
-# Kattis
-easy problems
